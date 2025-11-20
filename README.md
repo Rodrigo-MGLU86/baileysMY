@@ -1,7 +1,7 @@
 # WhatsApp Baileys
 
 ## Baileys for project1100
-### credit : https://github.com/kiuur/baileys
+>> credit : https://github.com/kiuur/baileys
 
 <p align="center">
   <img src="./media/baileys.jpg" alt="Thumbnail" />
